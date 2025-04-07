@@ -1,7 +1,7 @@
 # Node.js CI/CD Pipeline with GitHub Actions & Docker
 
 ![CI/CD Pipeline](https://github.com/StrixPO/nodejs-cicd-pipeline/actions/workflows/main.yml/badge.svg)
-![Docker Image](https://hub.docker.com/repository/docker/dockocto/nodejs-demo-app/general)
+![Docker Image](https://hub.docker.com/repository/docker/dockocto/nodejs-demo-app/)
 
 ## Project Overview
 
