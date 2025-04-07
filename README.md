@@ -1,6 +1,6 @@
 # Node.js CI/CD Pipeline with GitHub Actions & Docker
 
-![CI Status](https://github.com/StrixPO/nodejs-cicd-pipeline/)  
+![CI/CD Pipeline](https://github.com/StrixPO/nodejs-cicd-pipeline/actions/workflows/main.yml/badge.svg)
 ![Docker Image](https://hub.docker.com/repository/docker/dockocto/nodejs-demo-app/general)
 
 ## Project Overview
@@ -15,8 +15,6 @@ This project demonstrates a simple **Node.js app** with a **CI/CD pipeline** pow
 2. [Usage](#usage)
 3. [CI/CD Pipeline](#cicd-pipeline)
 4. [Docker Information](#docker-information)
-5. [License](#license)
-
 ---
 
 ## Installation
@@ -106,3 +104,6 @@ You can pull the image from DockerHub with:
 ```bash
 docker pull dockocto/nodejs-demo-app:latest
 ```
+
+
+
